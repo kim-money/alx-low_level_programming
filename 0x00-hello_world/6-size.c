@@ -1,11 +1,9 @@
 #include <stdio.h>
 /*
  *main - print data type sizes
-
- script by kim-money
- return (0)
- */
-
+ *
+ *return (0)
+ **/
 int main(void)
 {
 	char a;
