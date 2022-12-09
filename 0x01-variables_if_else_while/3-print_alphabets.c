@@ -7,7 +7,9 @@ int main(void)
 {
 	char Capital_letter = 'A';
 	char Small_letter = 'a';
+
 	while (Small_letter <= 'z')
+
 	{
 	putchar(Small_letter);
 	Small_letter++;
